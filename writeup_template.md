@@ -162,11 +162,11 @@ For the Each image, the model is relatively sure probability of 1.0 for the firs
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| .60         			| 60 km/h    									| 
-| .20     				| Right of way at next intersection 										|
-| .05					| 30 km/h											|
-| .04	      			| Priority Road					 				|
-| .01				    | Keep Right      							|
+| 1.0         			| 60 km/h    									| 
+| 1.0     				| Right of way at next intersection 										|
+| 1.0					| 30 km/h											|
+| 1.0	      			| Priority Road					 				|
+| 1.0				    | Keep Right      							|
 
 
 
