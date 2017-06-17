@@ -158,9 +158,9 @@ The model was able to correctly guess 5 of the 5 traffic signs, which gives an a
 
 The code for making predictions on my final model is located in the 11th cell of the Ipython notebook.
 
-For the Each image, the model is relatively sure probability of 1.0 for the first probability), and the image does contain a correct sign. The top soft max probabilities (next four were zeros) were
+For the Each image, the model is relatively sure (1.0 for the first probability), and the image does contain a correct sign. The top soft max probabilities (next four were zeros) were
 
-| Probability         	|     Prediction	        					| 
+| First Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 1.0         			| 60 km/h    									| 
 | 1.0     				| Right of way at next intersection 										|
